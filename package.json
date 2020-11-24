@@ -1,6 +1,6 @@
 {
-  "homepage": "http://phakpa.github.io/reactportfolio",
-  "name": "reactportfolio",
+  "homepage": "http://phakpa.github.io/portfolio",
+  "name": "portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
