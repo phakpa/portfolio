@@ -1,0 +1,46 @@
+h2 {
+  text-align: center;
+}
+
+.projectDetails {
+  margin-top: 50px;
+  color: darkblue;
+}
+
+#mainBody {
+  background-color: lightgrey;
+}
+
+#background {
+  background-image: url("https://images.pexels.com/photos/1169754/pexels-photo-1169754.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260");
+  background-size: cover;
+}
+
+.center {
+  margin-top: 100px;
+  margin-bottom: 150px;
+  text-align: center;
+}
+
+#myInfo {
+  color: white;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: large;
+  font-weight: bold;
+}
+
+#contact {
+  margin-top: 50px;
+  background-color: darkgray;
+}
+
+#contactTitle {
+  margin-bottom: 30px;
+  color: darkblue;
+  text-align: center;
+}
+
+#contactBody {
+  background-color: white;
+  margin-bottom: 100px;
+}
