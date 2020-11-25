@@ -154,6 +154,14 @@ function Body() {
           <div id="contactBody">
             <div>Phone: (919)-436-6659</div>
             <div>
+              <a
+                href={process.env.PUBLIC_URL + "/Resumepkpa.pdf"}
+                target="_newtab"
+              >
+                Resume
+              </a>
+            </div>
+            <div>
               Email:{" "}
               <a href="mailto:kphaoctober@yahoo.com" target="_newtab">
                 kphaoctober@yahoo.com
