@@ -6,7 +6,14 @@ function Footer() {
     <footer id="footer">
       <p>
         Portfolio built with React by{" "}
-        <a href="https://github.com/phakpa">Pha Kpa</a>.
+        <a
+          href="https://github.com/phakpa"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Pha Kpa
+        </a>
+        .
       </p>
       <p>
         <a href="#about">Back to top</a>

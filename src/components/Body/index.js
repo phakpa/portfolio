@@ -105,36 +105,40 @@ function Body() {
       <Container id="contact">
         <div id="contactTitle">
           <h2>Contact Me</h2>
+
+          <div id="contactBody">
+            <div>
+              Email:{" "}
+              <a href="mailto:kphaoctober@yahoo.com" target="_newtab">
+                kphaoctober@yahoo.com
+              </a>
+            </div>
+            <div>
+              Github:{" "}
+              <a
+                href="https://github.com/phakpa"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                https://github.com/phakpa
+              </a>
+            </div>
+            <div>
+              LinkedIn:{" "}
+              <a
+                href="https://www.linkedin.com/in/pha-kpa-1356921a7/"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                {" "}
+                https://www.linkedin.com/in/pha-kpa-1356921a7/
+              </a>
+            </div>
+          </div>
         </div>
-        <Container id="contactBody">
-          <div>
-            Email:{" "}
-            <a href="mailto:kphaoctober@yahoo.com" target="_newtab">
-              kphaoctober@yahoo.com
-            </a>
-          </div>
-          <div>
-            Github:{" "}
-            <a
-              href="https://github.com/phakpa"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              https://github.com/phakpa
-            </a>
-          </div>
-          <div>
-            LinkedIn:{" "}
-            <a
-              href="https://www.linkedin.com/in/pha-kpa-1356921a7/"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              {" "}
-              https://www.linkedin.com/in/pha-kpa-1356921a7/
-            </a>
-          </div>
-        </Container>
+        <div>
+          <br></br>
+        </div>
       </Container>
     </div>
   );
