@@ -54,7 +54,22 @@ function Body() {
                         Christmas gifting app for kids and adults
                       </p>
                       <p>
-                        <Button variant="primary">Learn more</Button>
+                        <a
+                          href="https://intense-ridge-86974.herokuapp.com/"
+                          target="_blank"
+                          rel="noopener noreferrer"
+                        >
+                          {" "}
+                          <Button variant="danger">Check out the app!</Button>
+                        </a>
+                        <a
+                          href="https://github.com/JoseBurgos1993/Eloof"
+                          target="_blank"
+                          rel="noopener noreferrer"
+                        >
+                          {" "}
+                          <Button variant="info">Check out the repo!</Button>
+                        </a>
                       </p>
                     </Jumbotron>
                   </Carousel.Caption>
@@ -73,7 +88,22 @@ function Body() {
                         Simple Burger App where you can add and devour burgers!
                       </p>
                       <p>
-                        <Button variant="primary">Learn more</Button>
+                        <a
+                          href="https://quiet-ravine-84857.herokuapp.com/"
+                          target="_blank"
+                          rel="noopener noreferrer"
+                        >
+                          {" "}
+                          <Button variant="danger">Check out the app!</Button>
+                        </a>
+                        <a
+                          href="https://github.com/phakpa/burger"
+                          target="_blank"
+                          rel="noopener noreferrer"
+                        >
+                          {" "}
+                          <Button variant="info">Check out the repo!</Button>
+                        </a>
                       </p>
                     </Jumbotron>
                   </Carousel.Caption>
@@ -92,7 +122,22 @@ function Body() {
                         Weather app displays weather based on city location
                       </p>
                       <p>
-                        <Button variant="primary">Learn more</Button>
+                        <a
+                          href="https://phakpa.github.io/weatherDashboard/"
+                          target="_blank"
+                          rel="noopener noreferrer"
+                        >
+                          {" "}
+                          <Button variant="danger">Check out the app!</Button>
+                        </a>
+                        <a
+                          href="https://github.com/phakpa/weatherDashboard"
+                          target="_blank"
+                          rel="noopener noreferrer"
+                        >
+                          {" "}
+                          <Button variant="info">Check out the repo!</Button>
+                        </a>
                       </p>
                     </Jumbotron>
                   </Carousel.Caption>
@@ -107,6 +152,7 @@ function Body() {
           <h2>Contact Me</h2>
 
           <div id="contactBody">
+            <div>Phone: (919)-436-6659</div>
             <div>
               Email:{" "}
               <a href="mailto:kphaoctober@yahoo.com" target="_newtab">
