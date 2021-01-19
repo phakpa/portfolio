@@ -11,13 +11,13 @@ function Header() {
       variant="light"
       sticky="top"
     >
-      <Navbar.Brand href="#about">Pha Kpa</Navbar.Brand>
+      <Navbar.Brand href="#background">Pha Kpa</Navbar.Brand>
       <Navbar.Toggle aria-controls="responsive-navbar-nav" />
       <Navbar.Collapse id="responsive-navbar-nav">
         <Nav className="mr-auto">
-          <Nav.Link href="#about">About</Nav.Link>
+          <Nav.Link href="#background">About</Nav.Link>
+          <Nav.Link href="#aboutMe">Contact</Nav.Link>
           <Nav.Link href="#projects">Projects</Nav.Link>
-          <Nav.Link href="#contact">Contact</Nav.Link>
         </Nav>
       </Navbar.Collapse>
     </Navbar>

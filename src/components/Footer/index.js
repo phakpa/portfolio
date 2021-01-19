@@ -16,7 +16,7 @@ function Footer() {
         .
       </p>
       <p>
-        <a href="#about">Back to top</a>
+        <a href="#background">Back to top</a>
       </p>
     </footer>
   );

@@ -2,18 +2,12 @@ h2 {
   text-align: center;
 }
 
-.projectDetails {
-  margin-top: 50px;
-  color: darkblue;
-}
-
-#mainBody {
-  background-color: lightgrey;
-}
-
 #background {
   background-image: url("https://images.pexels.com/photos/1169754/pexels-photo-1169754.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260");
   background-size: cover;
+  height: 800px;
+  padding-top: 3%;
+  padding-bottom: 3%;
 }
 
 .center {
@@ -29,18 +23,28 @@ h2 {
   font-weight: bold;
 }
 
-#contact {
-  margin-top: 50px;
-  margin-bottom: 50px;
-  background-color: darkgray;
+#about {
+  margin-top: 300px;
+  margin-bottom: center;
+  background: rgba(181, 181, 199, 0.2) !important;
 }
 
-#contactTitle {
-  margin-bottom: 30px;
-  color: darkblue;
-  text-align: center;
+#projects {
+  background-color: rgb(213, 232, 238);
+  padding-top: 3%;
+  padding-bottom: 3%;
 }
 
-#contactBody {
-  background-color: white;
+#aboutMe {
+  background-color: rgb(64, 64, 65);
+  padding-top: 3%;
+  padding-bottom: 3%;
+}
+
+#aboutText {
+  color: lightgray;
+}
+
+#aboutTitle {
+  color: white;
 }
